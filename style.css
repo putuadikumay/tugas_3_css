@@ -1,0 +1,27 @@
+body{
+  width: 1312px;
+}
+.atas{
+  background-color: #c2831d;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.kedua{
+  color: white;
+  background-color: #0014f0;
+}
+
+.ketiga{
+  font-family: monospace;
+  font-size: 18px;
+  border: ridge;
+  background-color: white;
+}
+
+.keempat{
+  font-weight: bolder;
+  background-color: #7a7878;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
